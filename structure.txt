@@ -1,0 +1,13 @@
+Intro: 
+	| Gb | Db |
+
+#Harmonic ambiguity
+
+Verse:
+	| Eb | Bb | Gb | Db Ab |
+
+#All chords are major. Eb maj key.
+#Gb and Db are from the parallel minor key.
+#Interesting alternatives for solos/vocals:
+#Gb from parallel Dorian v Phrygian v Aeolian
+#Db from parallel Myxolydian v Aeolian
