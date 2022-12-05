@@ -24,7 +24,7 @@ Db -> parallel myxolydian
 
 # Intro
 
-The intro repeats the two non diatonic chords of the main progression.
+The intro repeats the two non-diatonic chords of the main progression.
 
 # General rules
 
@@ -35,7 +35,7 @@ quality of the chords.
 * The other sections of the song may have different chord progressions.
 
 * Let's try to emphasize the psychological aspect of the cookie inner
-life through music XD
+life through music.
 
 # About that cookie
 
