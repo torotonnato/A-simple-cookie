@@ -4,6 +4,8 @@ The life and death of a cookie in its journey through a typical
 breakfast. The lyrics and the basic chord progression were created by
 https://chat.openai.com/chat
 
+![Pencil drawing of a smiling cookie with chocolate chips over a glass of milk. Psycho vibes](./cover/cover01.jpeg)
+
 # Chord progression
 
 Eb (I) - Bb (V) - Gb (III) - Db (VII) - Ab (IV)
