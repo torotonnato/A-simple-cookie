@@ -6,17 +6,16 @@ https://chat.openai.com/chat
 
 # Chord progression
 
- Eb -  Bb -   Gb  -   Db  -  Ab
-(I) - (V) - (III) - (VII) - (IV)
+Eb (I) - Bb (V) - Gb (III) - Db (VII) - Ab (IV)
 
 All those chords are major, key of Eb.
 
-Gb and Db are not diatonic, but are from parallel keys.
+Gb and Db are non-diatonic, but are from parallel keys.
 In this first version both chords come from the parallel Eb minor 
 key, as reflected by the vocal melodic line ("baked with love and
 care").
 
-Other interesting alternatives from those chords:
+Other interesting alternatives for those chords:
 
 Gb -> parallel dorian or phrygian
 Db -> parallel myxolydian
@@ -27,7 +26,7 @@ The intro repeats the two non diatonic chords of the main progression.
 
 # General rules
 
-* The basic chord progression must remain intact, you can play
+* The basic chord progression must remain intact, you may experiment
 with alterations, dynamics, rhythm, without altering the basic
 quality of the chords.
 
@@ -42,4 +41,5 @@ The chord progression is very uplifting, reflecting the character
 vitality and good nature (of course, it's a cookie), but there is
 something very dark lurking in the inner depths of its soul:
 it wants to be eaten. Why?
+
 This may be a good experiment to practice tension and release.
